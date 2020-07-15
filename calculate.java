@@ -1,4 +1,4 @@
-//Nikhil. Prajith and Nishanth. Prajith 
+//Nikhil. Prajith
 //March 2017
 
 import java.awt.EventQueue;
