@@ -1,4 +1,5 @@
-package calculator;
+//Nikhil. Prajith and Nishanth. Prajith 
+//June 2017
 
 import java.awt.EventQueue;
 
